@@ -1,4 +1,4 @@
-# RAG-Agent-NLP-OpenCV
+# RAG-Agent-NLP-Chatbot-OpenAI
 
 A project combining Retrieval-Augmented Generation (RAG), Natural Language Processing (NLP), and OpenAI to create intelligent and interactive AI solutions.
 
@@ -13,7 +13,7 @@ A project combining Retrieval-Augmented Generation (RAG), Natural Language Proce
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/rag-agent-nlp-openai.git
+    git clone https://github.com/TausifM/rag-agent-nlp-chatbot-openai
     cd rag-agent-nlp-openai
     ```
 
@@ -51,4 +51,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For questions or feedback, please reach out to [your-email@example.com].3
+For questions or feedback, please reach out to [heytausifsheikh@gmail.com]
