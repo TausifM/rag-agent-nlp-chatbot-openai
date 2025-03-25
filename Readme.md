@@ -9,6 +9,11 @@ A project combining Retrieval-Augmented Generation (RAG), Natural Language Proce
 - **OpenAI Support**: Integrates computer vision for image and video processing.
 - **Customizable**: Easily extendable for various use cases.
 
+## Reference
+- https://tavily.com/
+- https://groq.com/
+- https://platform.openai.com/
+
 ![ai agent rag nlp chatbot](https://github.com/user-attachments/assets/72c6c867-7a67-43f3-959c-dee648c55148)
 
 ## Installation
